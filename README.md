@@ -14,3 +14,9 @@ Aplikasi menggunakan API spreadsheet memungkinkan interaksi otomatis dengan data
 
 Fitur-fitur Aplikasi:
 
+
+Langkah-langkah Praktikum:
+
+Dokumentasi Tambahan:
+
+# Terima Kasih
