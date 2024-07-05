@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554933750379",
+    "project_id": "verifikasiemail-bb90d",
+    "storage_bucket": "verifikasiemail-bb90d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554933750379:android:8975717faa9cdeaf5f3f2e",
+        "android_client_info": {
+          "package_name": "com.example.verifikasiemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmuZ-yeqHRV5AUT159YK_jHtiOdrWXN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
