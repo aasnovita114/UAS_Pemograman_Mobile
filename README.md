@@ -53,6 +53,7 @@ Langkah-langkah Praktikum:
 ```
 
 Dokumentasi Tambahan:
-1. YouTube : 
+1. YouTube :
+2. Link Pdf : https://drive.google.com/file/d/1gO2bnvH5MBat6D-6y2cr6ZLITKr8hoqT/view?usp=sharing
 
 # Terima Kasih
